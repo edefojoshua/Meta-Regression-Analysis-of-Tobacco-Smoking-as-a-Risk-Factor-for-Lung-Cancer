@@ -1,3 +1,2 @@
 # Meta-Regression-Analysis-of-Tobacco-Smoking-as-a-Risk-Factor-for-Lung-Cancer
-
 This meta-regression analyses three hypothetical studies on tobacco smoking as a risk factor for lung cancer. All studies report a moderate positive association (ZCOR: 0.29–0.45), with confidence intervals excluding zero, indicating statistical significance. "Lieu et al" contributes the most (46.8%), while "Edefo et al" contributes the least (20.8%). The pooled effect size is 0.3606 (95% CI: [0.2266, 0.4947], p < 0.0001), confirming a significant association. With no substantial heterogeneity, this analysis provides strong evidence that tobacco smoking increases lung cancer risk consistently across studies.
